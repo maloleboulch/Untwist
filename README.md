@@ -10,4 +10,4 @@ Need a Pycaret 3.0 env (see https://pycaret.gitbook.io/docs/get-started/installa
 
 Designed to run on a cluster.
 
-
+After running the main script, run CompactResults and CompactResults_Predict to obtain the results
